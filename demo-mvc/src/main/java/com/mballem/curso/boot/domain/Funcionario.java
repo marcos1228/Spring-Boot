@@ -13,7 +13,6 @@ import javax.persistence.Table;
 
 @SuppressWarnings("serial")
 @Entity
-
 @Table(name = "FUNCIONARIO")
 public class Funcionario extends AbstractEntity<Long> {
 
